@@ -1,0 +1,2 @@
+# JAVA_PROJ_PRAC
+JAVA練習
